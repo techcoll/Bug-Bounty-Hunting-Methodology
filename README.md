@@ -3,8 +3,6 @@
 
 <div align="center">
    
-[![Edition](https://img.shields.io/badge/Edition-2025-blue)](#)
-[![Author](https://img.shields.io/badge/Author-Amr%20Elsagaei-green)](#)
 [![YouTube](https://img.shields.io/badge/AmrSecOfficial-c00?logo=youtube&logoColor=white)](https://www.youtube.com/@AmrSecOfficial)
 [![Twitter](https://img.shields.io/badge/amrelsagaei-black?logo=X)](https://twitter.com/amrelsagaei)
 [![Telegram](https://img.shields.io/badge/AmrSecOfficial-0088CC?logo=telegram&logoColor=white)](https://t.me/AmrSecOfficial)
