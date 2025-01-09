@@ -1,11 +1,6 @@
 
-<h1 align="center">Bug Bounty Hunting Methodology 2025</h1>
+<h1 align="center">Bug Bounty Hunting Methodology </h1>
 
-<div align="center">
-   
-
-
-</div>
 
 <br>
 <div style="text-align: center;">
