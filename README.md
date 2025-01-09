@@ -14,7 +14,7 @@
 
 <br>
 <div style="text-align: center;">
-    <a href="https://youtu.be/bAHNM8IInwE" target="_blank">
+    <a href="https://www.youtube.com/@cybertech-arena" target="_blank">
         <img src="https://scontent.fmnl8-3.fna.fbcdn.net/v/t39.30808-6/469781980_122157067994282780_1908607615624184110_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NVtIlIfsIgcQ7kNvgGKvX4E&_nc_zt=23&_nc_ht=scontent.fmnl8-3.fna&_nc_gid=Aea274mIJcE1Vp-zNubyJek&oh=00_AYDtnHuMbovqeJMQVSfP2IDSz7sZNcjsts2mglTTqlGrDg&oe=67856731" alt="Bug Bounty Methodology 2025 Edition" style="width: 100%;">
     </a>
 </div>
